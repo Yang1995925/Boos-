@@ -1,0 +1,157 @@
+.main{
+	position: relative;
+	padding:0;
+	margin: 0;
+}
+.job-banner{
+	height: auto;
+	padding: 24px 0;
+	background: #444c60 url() center center no-repeat
+}
+.inner{
+	width: 1184px;
+	margin: 0 auto;
+}
+.home-inner{
+	max-width: 1184px;
+	
+}
+.job-primary.detail-box{
+	border: none;
+	height: auto;
+	padding: 0;
+	margin: 0;
+}
+.job-primary{
+	position: relative;
+}
+.job-status{
+	color: #E2E2E2;
+	font-size: 14px;
+	line-height: 20px;
+}
+.info-primary{
+	color: rgb(255, 255, 255);
+	width: 200px;
+}
+.name{
+	font-size: 32px;
+	line-height: 45px;
+	padding: 11px 0 8px;
+	color: #FFFFFF;
+	font-weight: 400;
+}
+.job-banner.name{
+	color: #FFFFFF;
+	font-weight: 400;
+}
+.salary{
+	display: inline-block;
+	    vertical-align: middle;
+	    color: #fa6a43;
+	    height: 42px;
+	    font-size: 30px;
+	    line-height: 42px;
+	    font-weight: 600;
+}
+.dolt{
+	display: inline-block;
+	    vertical-align: middle;
+	    width: 2px;
+	    height: 2px;
+	    margin: 0 7px;
+	    border-radius: 50%;
+	    background-color: rgba(255,255,255,.7);
+}
+.job-top{
+	width: 298px;
+	    position: absolute;
+	    right: 0;
+	    top: 50%;
+	    bottom: 0;
+	    margin-top: -47px;
+	
+}
+.btn-container{
+	display: inline-block;
+	height: 45px;
+	line-height: 40px;
+	box-sizing: border-box;
+	width: 250px;
+	display: inline-block;
+	display: inline-block;
+	min-width: 112px;
+	box-sizing: content-box;
+	eight: 36px;
+	line-height: 50px;
+	border: 1px #5dd5c8 solid;
+	font-size: 20px;
+	color: #fff;
+	letter-spacing: 1px;
+	background: #5dd5c8;
+	text-align: center;
+	cursor: pointer;
+}
+.op-container{
+	overflow: hidden;
+	    position: absolute;
+	    bottom: 10px;
+	    width: 100%;
+		height: 22px;
+	    line-height: 22px;
+		font-size: 16px;
+		color: #fa6a43;
+}
+.f1.icom-resume-login{
+	line-height: 22px;
+	font-size: 16px;
+	color: #1dd4c0;
+	
+	
+}
+.fr.icom-resume-update{
+	line-height: 22px;
+	font-size: 16px;
+	color: #1dd4c0;
+	padding-left: 100px;
+}
+.job-box{
+	margin-top: 30px;
+}
+.inner{
+	width: 1184px;
+	margin: 0 auto;
+}
+.home-inner{
+	max-width: 1184px;
+}
+.job-sider{
+	float: right;
+    width: 284px;
+	padding-bottom: 40px;
+}
+.sider-compay.company-info{
+	overflow: hidden;
+	line-height: 60px;
+	margin-bottom: 27px;
+	
+}
+.sider-compay.title{
+	line-height: 25px;
+	margin-bottom: 25px;
+	font-size: 15px;
+	font-weight: 500;
+	color: #414a60;
+	background-color: #000000;
+}
+.sider-compay img{
+	width: 60px;
+	    height: 60px;
+	    float: left;
+	    margin-right: 18px;
+	    border-radius: 10px;
+}
+.sider-compay a{
+	line-height: 60px;
+}
+
