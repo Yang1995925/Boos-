@@ -1,0 +1,60 @@
+body{
+	position: relative;
+}
+.filter-box{
+	background: #fff;
+	position: relative;
+	z-index: 999;
+	box-shadow: 0 3px 6px rgba(6,0,1,.05);   
+}
+.navbar-default{
+	width: 70%;
+	margin: 0 auto;
+}
+.dropdown-toggle{
+	line-height: 100%; 
+	font-size: 13px;
+}
+.city_left{
+	float: left;
+}
+.city{
+	width: 70%;
+	height: 50px;
+	margin: 0 auto;
+	padding-top: 10px;
+}
+.city_right{
+	float:right;
+}
+.city a{
+	color: black;
+	padding: 0 11px;
+	line-height:50px; 
+}
+.job1{
+	width: 70%;
+	margin: 0 auto;
+}
+.job{
+	list-style-type: none;
+	
+	
+}
+.job_one{
+	height: 100px;
+    
+}
+.job_one_left{
+	float: left;
+	width: 500px;
+	padding-right: 0px;
+}
+.job_one_right{
+	
+	float: right;
+	width: 400px;
+}
+.job_two{
+	
+}
